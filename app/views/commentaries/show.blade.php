@@ -1,0 +1,1 @@
+/home/nimbe/laravel/CMS_Bloging/app/views/commentaries/show.blade.php
